@@ -1,0 +1,29 @@
+.clickMe{
+    cursor: pointer;
+}
+
+.pageContentBox{
+
+   /* width: 100%;
+    min-height: 75%;*/
+    width: 1250%;
+    min-height: 75%;
+    background-color: white;
+    border-radius: 10px;
+    border-color: #7b8188;
+    border-width: 2px;
+    margin: 0 auto 0;
+    margin-top: 2%;
+}
+
+.headerLogout{
+    color: lightcoral;
+    text-decoration: underline;
+
+}
+
+.headerMenuSelectSecondBar{
+    color: yellow;
+    font-weight: bold;
+    font-size: 16px;
+}

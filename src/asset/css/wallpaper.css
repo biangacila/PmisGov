@@ -1,0 +1,137 @@
+.myFooterBox{
+    background-color: #7b8188;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    height: 50px;
+    position: relative;
+    padding-top: 15px;
+    text-align: center;
+    font-weight: bold;
+    opacity: 0.6;
+    margin-top: 3%;
+}
+
+
+.headerLine{
+    height: 2px;
+    border-radius: 1px;
+    margin-left: 20px;
+    right: 20px;
+    width: 90vh;
+}
+.myLinkHeader{
+    pointer-events: all;
+    color: currentColor;
+    text-decoration: #00aced;
+    cursor: pointer;
+}
+.pageHeaderModuleLinkBox{
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+    /*background-color: red;*/
+    color:white;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+.pageHeaderModuleLinkBox a{
+    margin: 3px;
+    z-index: 100;
+}
+.logoCompany{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-bottom-width: 1;
+    border-bottom-color: black;
+    border-radius: 25px;
+    color: blue;
+
+}
+.companyTitle{
+    font-size: 24px;
+    margin-left: 10px;
+    vertical-align: center;
+}
+.pageHeaderModule{
+    height: 60px;
+    background-color: #00aced; /* #7b8188; */
+    color:white;
+    vertical-align: center;
+}
+
+.pageHeaderMenu{
+    height: 50px;
+    background-color: #13B5EA;
+    color:white;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+
+.pageHeaderMenu button{
+    margin-left: 5px;
+    height: 15px;
+}
+.pageHeaderMenuButton{
+    margin-left: 5px;
+    font-weight: bold;
+    border-right-color: white;
+    border-right-style: solid;
+    border-right-width: 1px;
+    padding-right: 10px;
+}
+.pageInfoSelected{
+    padding-top: 5px;
+}
+
+
+.pageHeader{
+    margin-top: -0px;
+    height: 100px;
+    background-color: white;
+    color:black;
+}
+
+
+body{
+    margin: 0;
+}
+
+
+.wallpaper {
+    background-image: url("../img/HomePagePic1.jpg");
+
+    /* Full height */
+    height: auto;
+    min-height: 100vh;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    bottom:0;
+    overflow: auto;
+}
+
+.overlay{
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    top:0;
+    bottom:0;
+    height: 100%;
+    width: 100%;
+    z-index: -5;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}

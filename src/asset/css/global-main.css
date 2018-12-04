@@ -1,0 +1,233 @@
+
+
+.modal-dialog {
+    text-align: left;
+    margin: 0 auto 0;
+    left: 25%;
+    margin-top: 5%;
+    background: lightgrey;
+    width: 70%;
+
+    position: absolute;
+
+
+}
+
+.myModalPosition{
+    width: 90%;
+    background: inherit;
+}
+.clickMe{
+    cursor: pointer;
+    color: blue;
+}
+.mybuttonOrg{
+    text-align: right;
+}
+ tr.noborder td{
+     border-color: orangered;
+    border-top: none !important;
+
+}
+.page{
+    height: 100%;
+    display: inline-block;
+}
+.pageContentWhite{
+    width: 100%;
+    height: auto;
+    background: white;
+    position: relative;
+    margin-top:0px;
+    vertical-align: top;
+    top:-10px;
+}
+
+.borderShadon{
+    border: 2px double;
+    border-color: lightgray;
+    padding: 10px;
+    box-shadow: 5px 10px 18px gray;
+    min-height: calc(100vh - 350px);
+}
+.cOrg12{
+    width: 30%;
+}
+.cOrg13{
+    width: 20%;
+    text-align: left;
+    background: yellow;
+}
+
+.logoColoum{
+    height: 90px ;
+    width: 130px ;
+    background-color: #666d74;
+    padding-top: 5px;
+
+}
+.myLogo{
+    background-color: #fcf8e3;
+    min-heightheight: 150px ;
+    min-width: 150px ;
+
+}
+.myImgBackground{
+    background-color: white;
+}
+
+.select {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    display: block;
+    width: 100%;
+    height: 34px;
+}
+
+.loader{
+    position: absolute;
+    margin: 0 auto 0;
+    margin-top: -18%;
+    margin-left: 25%;
+}
+
+.loader p{
+    text-align: center;
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+}
+
+div.siteTableContainer{
+    width: 90%;
+
+}
+
+.mySiteTable{
+    width: 100%;
+    position: relative;
+}
+.mySiteTable td,th{
+    text-align: center;
+}
+button.date-picker-custom-input{
+    width: 100%;
+    position: relative;
+}
+
+.empPayRates{
+    color: red;
+    font-size: 14px;
+}
+
+.myclocks table{
+    overflow-x: scroll;
+    background: yellow;
+
+}
+.myClassGray td{
+    color:  	#DCDCDC;
+}
+
+img.imgContractDash{
+    width: 99%;
+    margin: 0 auto;
+}
+
+.centerContent{
+    padding: 10px;
+}
+.ImportEmployeeDatabaseCsvTitle{
+    text-align: center;
+    font-size: 25px;
+}
+.totDatabaseQuery{
+    bottom: 40px;
+    right: 40px;
+}
+.myBoxListItemDoc{
+   padding-left:60px;
+}
+.hidenMe{
+    visibility: hidden;
+}
+
+.tAlignLeft{
+    text-align: left;
+}
+.tAlignRight{
+    text-align: right;
+}
+.tAlignCenter{
+    text-align: center;
+}
+table.grayTableHeader th{
+    color: #818a91;
+    opacity: 0.8;
+}
+.myFiterHeader{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+table.tbSiteReport{
+    background-color: lightgrey;
+}
+table.tbSiteReport td{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+table.tbSiteReport th{
+    color: darkgrey;
+}
+table.tbSiteReport th.vtable {
+    vertical-align: middle;
+    padding: 20px;
+    font-size: 18px;
+    color: black;
+}
+.myFirstRowCol{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+table.pastelTable th{
+    text-align: left;
+}
+
+.pastelHeading{
+    color: red;
+}
+.pastelDownloadBtn{
+    height: 30px;
+    cursor: pointer;
+    color: #3f51b5;
+}
+.pastelTitleDetail{
+    color: #4f565d;
+}
+.tab-header{
+    background-color: black;
+}
+
+

@@ -1,0 +1,33 @@
+.myTitleLogin{
+    color: #7b8188;
+    font-size: 16px;
+    font-family: "cursive";
+    padding-bottom: 10px;
+    text-underline: black;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+
+}
+.loginContentBox{
+   /* height: 53%;*/
+    width: 40%;
+    background-color: white;
+    border-radius: 10px;
+    border-color: #7b8188;
+    border-width: 2px;
+    margin: 0 auto 0;
+    margin-top: 5%;
+}
+
+.registerContentBox{
+    width: 40%;
+    background-color: white;
+    border-radius: 10px;
+    border-color: #7b8188;
+    border-width: 2px;
+    margin: 0 auto 0;
+    margin-top: 5%;
+    overflow: scroll;
+    max-height: 80%;
+}

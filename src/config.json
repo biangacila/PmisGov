@@ -1,0 +1,6 @@
+{
+  "serverBackend":"http://localhost:33346/backend-pmis-gov/api",
+  "serverPmisMain":"http://voip.easipath.com:33345",
+  "serverPmisRecords":"http://voip.easipath.com:19320/backend-epwprecords/api",
+  "serverWS":"ws://localhost:19319/backend-pmis-gov/api"
+}
